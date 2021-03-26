@@ -4,6 +4,11 @@ Execution example: python3 bofh_event_gen.py -u http://10.10.10.10:8088/services
 
 This will send a json event to any splunk HEC collector you define that will contain a "randomly" generated excuse from the BOFH excuse board.
 
+Sample event:
+
+`{"event": {"time": "2021-03-26 18:44:45.724539", "excuse": "Permanent Precondition NMI Problem"}}`
+
+
 
 ## For bofh_scraper.py ##
 
