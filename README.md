@@ -8,7 +8,7 @@ This will send a json event to any splunk HEC collector you define that will con
 ## For bofh_scraper.py ##
 
 Execution Example: python3  bofh_scraper.py
-This will generate a random excuse created using the bofh excuse board, then print out to your terminal.
+This will generate a "random" excuse created using the bofh excuse board, then print out to your terminal.
 
 
 *All credit for the excusese goes to BOFH*
