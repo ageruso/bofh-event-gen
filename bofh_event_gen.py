@@ -7,10 +7,6 @@ import json
 import datetime 
 import time
 
-###teting url / token:
-    #url = 'http://50.116.36.196:8088/services/collector/event'
-    #token = '4cdcbe12-0eaa-4e8e-aad6-ba390becdcc8'
-
 #creating inputs for destination URL, token, port
 parser = argparse.ArgumentParser()
 
