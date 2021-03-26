@@ -15,6 +15,9 @@ Sample event:
 Execution Example: python3  bofh_scraper.py
 This will generate a "random" excuse created using the bofh excuse board, then print out to your terminal.
 
+Example output:
+`Please provide following excuse to user: Bidirectional Array Incompatibility Signal`
+
 
 *All credit for the excusese goes to BOFH*
 Link to BOFH excuse board: http://bofh.bjash.com/ExcuseBoard.html
