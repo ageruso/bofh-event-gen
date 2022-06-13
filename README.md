@@ -1,4 +1,4 @@
-## For bofh_event)gen.py ##
+## For bofh_event_gen.py ##
 
 Execution example: python3 bofh_event_gen.py -u http://10.10.10.10:8088/services/collector -t \<token\>
 
